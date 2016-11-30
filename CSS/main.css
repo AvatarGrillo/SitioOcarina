@@ -1,0 +1,71 @@
+
+body{
+	background-color: #71a6d2;
+	}
+
+.logo{
+	
+	border-style: solid;
+	align-content: center;
+	display: block;
+	clear: both;
+	padding: 2px;
+	
+			}
+
+.botoncat{
+
+border-style: solid;
+align-content: center;
+display: block;
+clear: both;
+padding: 2px;
+		}
+
+ul:{
+list-style-type: none;
+}
+
+a:link {
+text-decoration: none;
+}
+
+a:hover {
+text-decoration: none;
+text-decoration-color: none;}
+
+a:active {
+text-decoration: none;
+}
+
+a:visited {
+text-decoration: none;
+}
+
+.col-1{width:20%;}
+.col-offset-1{margin-left:40%;}
+
+
+
+
+/*Ordenador
+@media (min-width: 701px){
+
+}
+/*Mobile
+  @media (max-width: 700px) {
+  	
+  	body {
+    	background-color: #1c2841;
+		}
+  
+	.col-1{width:80%;}
+	.col-offset-1{margin-left:50%;}
+
+	
+}
+
+
+
+
+*/
